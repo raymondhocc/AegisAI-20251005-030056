@@ -1,6 +1,6 @@
 # Aegis AI
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/raymondhocc/AegisAI-20251005-030056)
 
 Aegis AI is a state-of-the-art, AI-powered general insurance administration platform designed to meet the rigorous IFRS 17 compliance standards of the Hong Kong Insurance Authority. The application streamlines the entire insurance lifecycle through intelligent automation. Key features include: a comprehensive Policy Management module for automated issuance, updates, and renewals; an AI-driven Claims Processing system for rapid submission, verification, and adjudication; and an Automated Underwriting engine that leverages predictive analytics for accurate risk assessment. The platform is enhanced with advanced AI capabilities, including a 24/7 Virtual Assistant for customer inquiries and a real-time Conversational Bot to guide users. A powerful analytics dashboard provides real-time insights into KPIs, while the integrated compliance module ensures continuous adherence to regulatory standards. The entire experience is delivered through a secure, mobile-first, and visually stunning interface designed for ultimate efficiency and user satisfaction.
 
@@ -93,7 +93,7 @@ This project is designed for seamless deployment to Cloudflare's global network.
 
 Alternatively, you can deploy directly from your GitHub repository with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/raymondhocc/AegisAI-20251005-030056)
 
 ## Project Structure
 
